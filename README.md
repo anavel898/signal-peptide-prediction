@@ -6,7 +6,7 @@
 <br>
 The final preformance of the algorithm is written into the file: <code>benchmarkDataSetResults.tsv</code>
 
-<h3>Run the precition using SVM:</h3>
+<h3>Run the prediction using SVM:</h3>
 <code>cd src/SVM <br>
 ./SVMrunning.sh</code>
 <br>
