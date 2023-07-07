@@ -10,5 +10,5 @@ The final preformance of the algorithm is written into the file: <code>benchmark
 <code>cd src/SVM <br>
 ./SVMrunning.sh</code>
 <br>
-Optimal values of hyperparameters can be found in the file: <code>optimalHyperparams.tsv</code>
+Optimal values of hyperparameters can be found in the file: <code>optimalHyperparams.tsv</code><br>
 The final preformance is written into the file: <code>SVMbenchmarkResults.tsv</code>
