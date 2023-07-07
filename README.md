@@ -1,12 +1,12 @@
 # Comparison of signal peptide prediction methods
 
-<h3>Run the prediction using the von Heijne algorithm:</h3>
-<code>cd src/vonHeijne <br>
+###Run the prediction using the von Heijne algorithm:
+<code>cd src/vonHeijne  
 ./vHrunning.sh</code>
 <br>
 The final preformance of the algorithm is written into the file: <code>benchmarkDataSetResults.tsv</code>
 
-<h3>Run the prediction using SVM:</h3>
+###Run the prediction using SVM:
 <code>cd src/SVM <br>
 ./SVMrunning.sh</code>
 <br>
