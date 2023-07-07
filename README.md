@@ -1,11 +1,9 @@
 # signal-peptide-prediction
 
-To run the prediction using the von Heijne algorithm:
-
+<h2>**To run the prediction using the von Heijne algorithm:**</h2>
 cd src/vonHeijne
 ./vHrunning.sh
 
-To run the precition using SVM:
-
+<h2>**To run the precition using SVM:**</h2>
 cd src/SVM
 ./SVMrunning.sh
